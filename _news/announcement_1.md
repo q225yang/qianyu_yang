@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-01-01 00:00:00
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Placeholder news item. Replace this with a real update, or delete it if you do not want announcements on the home page.
