@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student / Researcher, YOUR DEPARTMENT, YOUR UNIVERSITY
+subtitle: PhD Student, School of Computing and Augmented Intelligence, Arizona State University
 
 profile:
   align: right
@@ -27,23 +27,23 @@ latest_posts:
   limit: 3
 ---
 
-# YOUR NAME
+# Qianyu Yang
 
-I am a PhD student / researcher in YOUR DEPARTMENT at YOUR UNIVERSITY.
+I am a PhD student in School of Computing and Augmented Intelligence (SCAI) at Arizona State University.
 
-Replace this paragraph with a short biography: your research area, advisor or lab if you want to include them, methods you use, and the broader problems that motivate your work.
+I am a Ph.D. student in database systems advised by Prof. Jun Yang. My research interests include data discovery, data integration, and AI for database systems. I am broadly interested in developing intelligent database systems that leverage modern machine learning and large language models to improve data management and analytics.
 
 ## Research Interests
 
-- YOUR RESEARCH AREA 1
-- YOUR RESEARCH AREA 2
-- YOUR RESEARCH AREA 3
+- Database
+- Data Discovery
+- Machine Learning
 
 ## Profile Details
 
-- Position: PhD Student / Researcher
-- Department: YOUR DEPARTMENT
-- University: YOUR UNIVERSITY
-- Email: YOUR EMAIL
+- Position: PhD Student
+- Department: School of Computing and Augmented Intelligence (SCAI)
+- University: Arizona State University
+- Email: qyang129[AT]asu[DOT]edu
 - CV: replace `assets/pdf/YOUR-CV.pdf` and update `_pages/cv.md`
 - Profile photo: replace `assets/img/prof_pic.jpg` with your own photo
