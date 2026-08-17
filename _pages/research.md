@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /research/
 description: Placeholder research overview. Replace these topics with your real research areas.
-nav: true
+nav: false
 nav_order: 2
 ---
 
