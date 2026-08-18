@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: true
+nav: false
 nav_order: 5
 cv_pdf: /assets/pdf/YOUR-CV.pdf # replace with your CV PDF, or remove this line until ready
 cv_format: rendercv # options: rendercv, jsonresume
